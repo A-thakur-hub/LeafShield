@@ -1,4 +1,4 @@
-# YHACK_LeafShield
+# LeafShield
 
 For complete detail and video demo please visit Devpost: https://devpost.com/software/leaf-shield
 
